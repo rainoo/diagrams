@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T01:06:59.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="XpP0A6F-gv1pAeQPL7m6" version="14.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T01:25:13.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="9UNEUjUBZoMiY5jLpzC6" version="14.7.8" type="github">
   <diagram id="n0OsIZ7AkVCpwNTTr5zC" name="第 1 页">
-    <mxGraphModel dx="1483" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,13 @@
           <mxGeometry x="1390" y="1012" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="e40ZojxpMAdpVUB76Xx0-4" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#CCFFE6;fontSize=12;dashed=1;fillColor=#CCFFE6;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1303.7" width="250" height="130" as="geometry" />
+          <mxGeometry x="200" y="1298.7" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="e40ZojxpMAdpVUB76Xx0-5" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontSize=12;dashed=1;fillColor=#CCFFE6;" vertex="1" parent="1">
-          <mxGeometry x="517" y="1303.7" width="250" height="130" as="geometry" />
+          <mxGeometry x="517" y="1298.7" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="e40ZojxpMAdpVUB76Xx0-6" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontSize=12;dashed=1;fillColor=#CCFFE6;" vertex="1" parent="1">
-          <mxGeometry x="830" y="1300.2" width="250" height="130" as="geometry" />
+          <mxGeometry x="830" y="1298.7" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="e40ZojxpMAdpVUB76Xx0-7" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontSize=12;dashed=1;fillColor=#CCFFE6;" vertex="1" parent="1">
           <mxGeometry x="1140" y="1298.7" width="250" height="130" as="geometry" />
@@ -66,10 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e40ZojxpMAdpVUB76Xx0-18" value="Redis" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-128.png;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="220" y="1334.4" width="68.3" height="68.3" as="geometry" />
-        </mxCell>
-        <mxCell id="e40ZojxpMAdpVUB76Xx0-20" value="&lt;b&gt;MySQL&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-128.png;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1334.9" width="67.8" height="67.8" as="geometry" />
+          <mxGeometry x="222" y="1334.4" width="68.3" height="68.3" as="geometry" />
         </mxCell>
         <mxCell id="e40ZojxpMAdpVUB76Xx0-22" value="&lt;b&gt;MongoDB&lt;/b&gt;" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="853.7" y="1335" width="65" height="65" as="geometry" />
@@ -96,7 +93,7 @@
           <mxGeometry x="625" y="1350.7" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="e40ZojxpMAdpVUB76Xx0-34" value="…" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;fontSize=25;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="301" y="1347.7" width="40" height="20" as="geometry" />
+          <mxGeometry x="303" y="1347.7" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="e40ZojxpMAdpVUB76Xx0-37" value="文件存储服务器 OSS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1405" y="1017" width="220" height="20" as="geometry" />
@@ -220,10 +217,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e40ZojxpMAdpVUB76Xx0-81" value="&lt;b&gt;bucket&lt;/b&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.bucket;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="1044.5" width="70" height="70" as="geometry" />
+          <mxGeometry x="1435" y="1044.5" width="65.5" height="65.5" as="geometry" />
         </mxCell>
         <mxCell id="e40ZojxpMAdpVUB76Xx0-84" value="&lt;b&gt;bucket&lt;/b&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.bucket;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="1044.5" width="70" height="70" as="geometry" />
+          <mxGeometry x="1533" y="1044.5" width="65.5" height="65.5" as="geometry" />
         </mxCell>
         <mxCell id="e40ZojxpMAdpVUB76Xx0-91" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="665" y="612" width="250" height="130" as="geometry" />
@@ -280,16 +277,16 @@
           <mxGeometry x="160" y="33" width="65.5" height="65.5" as="geometry" />
         </mxCell>
         <mxCell id="e40ZojxpMAdpVUB76Xx0-114" value="&lt;b&gt;MySQL&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-128.png;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="674" y="1335" width="67.8" height="67.8" as="geometry" />
+          <mxGeometry x="685" y="1341.6499999999999" width="55" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="e40ZojxpMAdpVUB76Xx0-115" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;数据库主从服务器&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="584.5" y="1313.7" width="115" height="20" as="geometry" />
+        <mxCell id="e40ZojxpMAdpVUB76Xx0-115" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;MySQL主从服务器&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="579.25" y="1311.3" width="125.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="e40ZojxpMAdpVUB76Xx0-116" value="Redis" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-128.png;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="350" y="1335" width="68.3" height="68.3" as="geometry" />
+          <mxGeometry x="355" y="1335" width="68.3" height="68.3" as="geometry" />
         </mxCell>
         <mxCell id="e40ZojxpMAdpVUB76Xx0-117" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Redis集群&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="267.5" y="1313.7" width="115" height="20" as="geometry" />
+          <mxGeometry x="267.5" y="1311.3" width="115" height="20" as="geometry" />
         </mxCell>
         <mxCell id="e40ZojxpMAdpVUB76Xx0-119" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;MongoDB副本集&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="897.5" y="1311.3" width="115" height="20" as="geometry" />
@@ -302,6 +299,9 @@
         </mxCell>
         <mxCell id="e40ZojxpMAdpVUB76Xx0-124" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ES集群&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1207.5" y="1311.3" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e40ZojxpMAdpVUB76Xx0-182" value="&lt;b&gt;MySQL&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-128.png;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1340" width="55" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
